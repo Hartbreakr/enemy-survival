@@ -1,3 +1,5 @@
+![ENEMY SURVIVAL](banner.png)
+
 # Enemy Survival
 
 A small wave-based arena shooter I built for fun. Survive waves of aliens, buy weapons between waves, fight a boss every fifth wave.
