@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+save.json
+highscore.txt
+sprite_preview.png
+backup_v1/
+backup_v2/
